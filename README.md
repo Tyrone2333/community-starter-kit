@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+这里是描述
 
 ## What it does
 
-FEATURES PLACEHOLDER
+这里是另一个描述
 
 ## Getting started
 
